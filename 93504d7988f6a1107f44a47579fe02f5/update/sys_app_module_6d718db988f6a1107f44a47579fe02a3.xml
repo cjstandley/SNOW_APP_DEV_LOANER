@@ -13,7 +13,7 @@
         <mobile_title>Closed</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_cdltd_loaner_req_loaner_request</name>
-        <order>5</order>
+        <order>600</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=false^EQ</query>
         <report/>
