@@ -17,7 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query>active=false^EQ</query>
         <report/>
-        <roles/>
+        <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-05-14 20:13:25</sys_created_on>

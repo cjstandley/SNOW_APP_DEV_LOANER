@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_cdltd_loaner_req_loaner_request">requested_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="requested_for" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow read for records in x_cdltd_loaner_req_loaner_request, for users with role x_cdltd_loaner_req.loaner_request_user, and if the ACL condition (requested_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ) evaluates to true.</description>
+        <name>x_cdltd_loaner_req_loaner_request</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-15 18:09:11</sys_created_on>
+        <sys_id>2f6e610e887ae1107f44a47579fe02d5</sys_id>
+        <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">93504d7988f6a1107f44a47579fe02f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">93504d7988f6a1107f44a47579fe02f5</sys_scope>
+        <sys_update_name>sys_security_acl_2f6e610e887ae1107f44a47579fe02d5</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
