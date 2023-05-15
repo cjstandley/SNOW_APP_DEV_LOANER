@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-15 20:19:22</sys_created_on>
+        <sys_id>aa6cca4a88fae1107f44a47579fe0236</sys_id>
+        <sys_name>x_cdltd_loaner_req_loaner_task.x_cdltd_loaner_req.admin</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">93504d7988f6a1107f44a47579fe02f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">93504d7988f6a1107f44a47579fe02f5</sys_scope>
+        <sys_security_acl display_value="x_cdltd_loaner_req_loaner_task">e26cca4a88fae1107f44a47579fe0234</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_aa6cca4a88fae1107f44a47579fe0236</sys_update_name>
+        <sys_user_role display_value="x_cdltd_loaner_req.admin" name="x_cdltd_loaner_req.admin">ca3ba90a887ae1107f44a47579fe026e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
